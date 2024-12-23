@@ -2,6 +2,7 @@
 
 This repository houses a **Tableau Dashboard** analyzing U.S. border crossing data with actionable insights.
 ![image](https://github.com/user-attachments/assets/bea1c268-245c-4367-843f-b19530f4732e)
+image: AI Generated
 
 ---
 
