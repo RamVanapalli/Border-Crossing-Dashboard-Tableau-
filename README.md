@@ -1,24 +1,32 @@
 # Border Crossing Dashboard
 
-This repository contains an interactive Tableau dashboard analyzing border crossing activities at U.S.-Canada and U.S.-Mexico borders.
+This repository houses a **Tableau Dashboard** analyzing U.S. border crossing data with actionable insights.
 
-## **Description**
-The dashboard provides insights into border crossing data, including:
-- **Border Crossing Overview**: Highlights hotspots, trends, and seasonal variations.
-- **Measure Insights**: Displays proportional contributions of different crossing types (e.g., Trucks, Pedestrians).
-- **Port Performance**: Showcases the busiest and least active ports with temporal trends.
+---
 
-### **Features**
-- Dynamic filters for **Border**, **State**, **Measure**, and **Year**.
-- Interactive maps, bar charts, trend lines, and pie charts.
-- Highlights key metrics such as seasonal peaks, port-level activity, and measure dominance.
+❓❔ **What's Inside?**
+1. **Border Crossing Overview**: 
+   - High-level summary of hotspots and seasonal trends.
+   - Visuals: Geographical map and trend analysis.
 
-## **Usage**
-1. Download the `.twbx` file from this repository.
-2. Open the file in Tableau Desktop (2021.1 or later).
-3. Explore the interactive dashboards and apply filters for deeper insights.
+2. **Measure Insights**:
+   - Breakdown of crossing measures (Trucks, Pedestrians, etc.).
+   - Visuals: Bar chart and pie chart.
 
-## **Data Source**
-The analysis is based on data from the **Bureau of Transportation Statistics (BTS)** Border Crossing Data.
-https://catalog.data.gov/dataset/border-crossing-entry-data-683ae
+3. **Port Performance**:
+   - Highlights the busiest and least active ports.
+   - Visuals: Top/Bottom ports with time-based trends.
 
+---
+
+❓❔ **Why This Dashboard Matters**
+- **Discover Patterns**: Seasonal peaks, measure dominance, and port activity.
+- **Interactive Filters**: Drill down by **Border**, **State**, **Measure**, and **Year**.
+- **Dynamic Insights**: Real-time analysis for quick decisions.
+
+---
+
+
+📁 **Data Source**
+- Derived from **Bureau of Transportation Statistics (BTS)** Border Crossing Data.
+- https://catalog.data.gov/dataset/border-crossing-entry-data-683ae
