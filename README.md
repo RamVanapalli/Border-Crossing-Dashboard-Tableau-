@@ -1,6 +1,7 @@
 # Border Crossing Dashboard
 
 This repository houses a **Tableau Dashboard** analyzing U.S. border crossing data with actionable insights.
+![image](https://github.com/user-attachments/assets/bea1c268-245c-4367-843f-b19530f4732e)
 
 ---
 
@@ -25,6 +26,12 @@ This repository houses a **Tableau Dashboard** analyzing U.S. border crossing da
 - **Dynamic Insights**: Real-time analysis for quick decisions.
 
 ---
+😅 **Fun Fact:** 
+If you're wondering whether this dashboard tracks folks sneaking across the border🌍 under the cover of night — nope, that's a different department! 🕵️‍♂️ 
+This data is strictly about **legal crossings**✅ at official ports of entry, where everyone is playing by the rules.
+
+---
+
 
 
 📁 **Data Source**
